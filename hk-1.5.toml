@@ -1,2 +1,9 @@
 version = "1.0.0.0"
 name = "Hollow Knight 1.5 Modlinks"
+
+[[feeds]]
+type = 'mod'
+name = 'Main Feed'
+description = 'The main feed for Hollow Knight mods'
+link = 'raw.githubusercontent.com/ShiroNekoDevs/modlinks/master/hk-1.5.toml'
+backup = ''
